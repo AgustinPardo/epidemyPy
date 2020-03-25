@@ -4,15 +4,12 @@
 
 The system can be expressed by the following set of ordinary differential equations:
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{300}&space;\tfrac{dS}{dt}&space;=&space;\tfrac{-\beta&space;IS}{N}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{300}&space;\tfrac{dS}{dt}&space;=&space;\tfrac{-\beta&space;IS}{N}" title="\tfrac{dS}{dt} = \tfrac{-\beta IS}{N}" /></a> 
 
-```Latex
+<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{300}&space;\tfrac{dI}{dt}&space;=&space;\tfrac{\beta&space;IS}{N}&space;-&space;\gamma&space;I" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{300}&space;\tfrac{dI}{dt}&space;=&space;\tfrac{\beta&space;IS}{N}&space;-&space;\gamma&space;I" title="\tfrac{dI}{dt} = \tfrac{\beta IS}{N} - \gamma I" /></a>
 
-\tfrac{dS}{dt} = \tfrac{-\beta IS}{N}
+<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{300}&space;\tfrac{dR}{dt}&space;=&space;\gamma&space;I" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{300}&space;\tfrac{dR}{dt}&space;=&space;\gamma&space;I" title="\tfrac{dR}{dt} = \gamma I" /></a>
 
-\tfrac{dI}{dt} = \tfrac{\beta IS}{N} - \gamma I
-
-\tfrac{dR}{dt} = \gamma I
-```
 
 where **S** is the stock of susceptible population, **I** is the stock of infected, **R** is the stock of recovered population, and **N** is the sum of these three.
 
