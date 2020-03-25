@@ -10,12 +10,12 @@ I0, R0 = 1, 0
 # Everyone else, S0, is susceptible to infection initially.
 S0 = N - I0 - R0
 # Contact rate, beta, and mean recovery rate, gamma, (in 1/days).
-beta, gamma = 0.2, 0.1
+beta, gamma = 0.35, 0.1
 # A grid of time points (in days)
 t = np.linspace(0, 500,500)
 
 # Out data
-cd=[1,1,2,8,9,12,17,19,21,31,34,45,56,65,78,97,128,158,225,266]
+cd=[1,1,2,8,9,12,17,19,21,31,34,45,56,65,78,97,128,158,225,265,301,387]
 tt=t[:len(cd)]
 
 # The SIR model differential equations.
