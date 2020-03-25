@@ -14,7 +14,7 @@ The system can be expressed by the following set of ordinary differential equati
 \tfrac{dR}{dt} = \gamma I
 ```
 
-where **S** is the stock of susceptible population, **I** is the stock of infected, **R** is the stock of recovered population, and {\displaystyle N}N is the sum of these three.
+where **S** is the stock of susceptible population, **I** is the stock of infected, **R** is the stock of recovered population, and **N** is the sum of these three.
 
 The system don't have so-called vital dynamics (birth and death.
 
