@@ -1,4 +1,4 @@
-# sirModel
+# epidemyPy
 
 ### SIR(Susceptible, Infectious, Recovered) compartmental model in epidemiology
 
