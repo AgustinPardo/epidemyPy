@@ -22,16 +22,3 @@ python3 sir.py
 with beta 0.2, gamma 0.1 (Basic reproduction mumber, R0=2), initial N of 1.10E6 of population and 1 infected as starting point:
 
 ![alt text](https://github.com/AgustinPardo/sirModel/blob/master/Figure_1.png)
-
-**Values of R0 of well-known infectious diseases:**
-| Disease	        | R0          |
-| ------------- |:-------------:|
-| Measles      | 12–18| 
-| Polio     | 5–7      |
-| Smallpox| 3.5–6     |
-| SARS     | 2–5      |
-| Ebola | 1.5–2.5    |
-| MERS | 0.3–0.8   |
-| COVID-19| 1.4–3.9     |
-
-
