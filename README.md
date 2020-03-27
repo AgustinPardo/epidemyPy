@@ -22,3 +22,9 @@ python3 sir.py
 with beta 0.2, gamma 0.1 (Basic reproduction mumber, R0=2), initial N of 1.10E6 of population and 1 infected as starting point:
 
 ![alt text](https://github.com/AgustinPardo/sirModel/blob/master/Figure_1.png)
+
+**References:**
+
+Basic reproduction mumber of COVID-19 around 2.2 (90% high density interval: 1.4–3.8)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7001239/
+
