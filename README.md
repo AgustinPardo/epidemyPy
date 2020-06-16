@@ -1,3 +1,6 @@
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
+
 # epidemyPy
 
 ### SIR(Susceptible, Infectious, Recovered) compartmental model in epidemiology
