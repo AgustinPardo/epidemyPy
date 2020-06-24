@@ -22,6 +22,6 @@ This is an example of the output running:
 ```python
 python3 sir.py
 ```
-with beta 0.2, gamma 0.1 (Basic reproduction mumber, R0=2), initial N of 1.10E6 of population and 1 infected as starting point:
+With beta 0.2, gamma 0.1 (Basic reproduction mumber, R0=2), initial N of 1.10E6 of population and 1 infected as starting point:
 
 ![alt text](https://github.com/AgustinPardo/sirModel/blob/master/Figure_1.png)
